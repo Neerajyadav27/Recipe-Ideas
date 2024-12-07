@@ -1,0 +1,7 @@
+.loading-message,
+.no-results-message {
+  text-align: center;
+  color: #777;
+  margin-top: 30px;
+  font-size: 1.2rem;
+}
